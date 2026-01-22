@@ -1,0 +1,8 @@
+
+{
+  "name": "VehicleWise AI: Smart Vehicle Expert",
+  "description": "An advanced AI-driven vehicle identification and recommendation system for the 2025 Indian market.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
